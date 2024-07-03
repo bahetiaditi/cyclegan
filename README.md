@@ -46,11 +46,11 @@ The uploaded notebook contains the full code for the project.
 
 ## Final Notebook
 
-To view the final notebook after 200 epochs, visit this ![link](https://www.kaggle.com/aditibaheti/cyclegan-daynight).
+To view the final notebook after 200 epochs, visit this [link](https://www.kaggle.com/aditibaheti/cyclegan-daynight).
 
 ## Blog
 
-For a detailed explanation and analysis of this project, read our blog post ![here](https://dev.to/aditi_baheti_f4a40487a091/from-day-to-night-building-a-cyclegan-for-image-translation-3pjd).
+For a detailed explanation and analysis of this project, read our blog post [here](https://dev.to/aditi_baheti_f4a40487a091/from-day-to-night-building-a-cyclegan-for-image-translation-3pjd).
 
 ## Conclusion
 
